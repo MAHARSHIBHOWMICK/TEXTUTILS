@@ -48,17 +48,3 @@ To run this project locally:
 2. **Choose Operation:** Select the desired text operation (e.g., convert to uppercase, remove extra spaces).
 3. **View Results:** The transformed text will be displayed, along with statistics like word and character count.
 
-## Contributing
-
-Contributions are welcome! If you'd like to enhance the application or add new features, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-![TextUtils in Action](public/TextUtils.png)
-
