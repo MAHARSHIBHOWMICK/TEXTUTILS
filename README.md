@@ -2,7 +2,6 @@
 
 TEXTUTILS is a React-based web application designed to provide users with various text manipulation utilities, such as converting text to uppercase or lowercase, removing extra spaces, and more.
 
-![Home Page](images/Screenshot 2025-04-08 at 7.05.48 PM.png)
 
 ## Features
 
